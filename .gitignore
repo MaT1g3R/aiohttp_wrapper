@@ -1,0 +1,3 @@
+# Directory ignores
+\.idea/
+__pycache__/
